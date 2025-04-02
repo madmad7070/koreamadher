@@ -1,12 +1,4 @@
-4lf0rkz
-regentcon
-온라인
-인피니티 야드
-한국머더 스크립크
-Nil
-작성자
- — 2025-03-30 오후 10:47
-제가 직접 만든 한국머더 스크립트를 공유 하고 싶습니다!!
+
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
